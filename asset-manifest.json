@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cedric-Lavergne-Portfolio/static/css/main.d3bbaa0e.css",
+    "main.js": "/Cedric-Lavergne-Portfolio/static/js/main.83bb4ccf.js",
+    "static/media/portfolio1.png": "/Cedric-Lavergne-Portfolio/static/media/portfolio1.c83ee882e3782155c86b.png",
+    "static/media/portfolio3.png": "/Cedric-Lavergne-Portfolio/static/media/portfolio3.0505cfee2e15ef6e8c01.png",
+    "static/media/portfolio5.png": "/Cedric-Lavergne-Portfolio/static/media/portfolio5.3341539c3a0e3058b8c3.png",
+    "static/media/portfolio4.png": "/Cedric-Lavergne-Portfolio/static/media/portfolio4.5a6f315f30439d5df090.png",
+    "static/media/portfolio6.png": "/Cedric-Lavergne-Portfolio/static/media/portfolio6.3eae5bf3cb98d287702c.png",
+    "static/media/portfolio2.png": "/Cedric-Lavergne-Portfolio/static/media/portfolio2.8f66142ae06a7f5a0c8f.png",
+    "static/media/PhotoCed.png": "/Cedric-Lavergne-Portfolio/static/media/PhotoCed.2cfef7d9e30c5f15d78c.png",
+    "static/media/CV-Cédric-Lavergne.pdf": "/Cedric-Lavergne-Portfolio/static/media/CV-Cédric-Lavergne.d9a5cc32230a6a6f0c47.pdf",
+    "static/media/me-about.jpg": "/Cedric-Lavergne-Portfolio/static/media/me-about.611ccf8b5ff704691aca.jpg",
+    "index.html": "/Cedric-Lavergne-Portfolio/index.html",
+    "main.d3bbaa0e.css.map": "/Cedric-Lavergne-Portfolio/static/css/main.d3bbaa0e.css.map",
+    "main.83bb4ccf.js.map": "/Cedric-Lavergne-Portfolio/static/js/main.83bb4ccf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3bbaa0e.css",
+    "static/js/main.83bb4ccf.js"
+  ]
+}
