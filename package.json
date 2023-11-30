@@ -1,5 +1,6 @@
 {
-  "name": "portfolio2",
+  "homepage": "https://Kimaati.github.io/Cedric-Lavergne-Portfolio",
+  "name": "portfolio1.0",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
   }
 }
