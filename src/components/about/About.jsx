@@ -28,8 +28,8 @@ const about = () => {
 
             <article className="about__card">
               <FiUsers className="about__icon" />
-              <h5>Lorem ipsum.</h5>
-              <small>Lorem ipsum.</small>
+              <h5>Formation</h5>
+              <small>Intégrateur web OpenClassroom</small>
             </article>
 
             <article className="about__card">
