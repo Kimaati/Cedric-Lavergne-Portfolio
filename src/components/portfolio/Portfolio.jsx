@@ -47,7 +47,7 @@ const data = [
     id: 6,
     image: IMG6,
     title: "Nina Carducci Photographe.",
-    github: "https://github.com/Kimaati/Chjapitre_9",
+    github: "https://github.com/Kimaati/Chapitre_9",
     demo: "https://dribbble.com/following",
   },
 ];
